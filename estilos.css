@@ -1,0 +1,53 @@
+body{
+    background-color: #2291B5;
+}
+h1{
+    background-color: #16468D;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.estiloverde{
+    color: green
+}
+.estiloazul{
+    color : blue
+}
+.foto{
+    margin: 20px;
+    padding: 20px;
+    height: 169px;
+}
+
+nav{
+    display: inline-block;
+
+}
+ul li{
+    width: 261px;
+    height: 41px;
+    background: #AB6969;
+    margin: 20px;
+    padding: 10px;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background: #31372f;;
+    bottom: 0;
+    color: white;
+}
+.contenedortexto{
+    display: flex;
+    background: #bca4a4;
+    border-radius: 36px;
+    font-size: medium;
+}
+.texto1{
+    font-size: 1em;
+}
+.texto2{
+    font-size: 2em;
+}
